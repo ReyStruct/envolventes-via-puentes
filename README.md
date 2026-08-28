@@ -26,4 +26,4 @@ Para ejecutar este script necesitas tener instalado Python 3.x y las siguientes 
 
 Puedes instalar las librerías con el siguiente comando:
 ```bash
-pip install numpy pandas matplotlib openpyxl
+pip install numpy pandas matplotlib
